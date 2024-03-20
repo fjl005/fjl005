@@ -5,12 +5,7 @@ During high school, I discovered that creating a simple Pong game with [Scratch]
 
 As I progressed down the medical route, however, I realized that the doctor pursuit was my father's dream, not my own. So having a Masters in Biology, I pivoted into the next best thing, cancer research, but only for it to leave me unfulfilled once again. After deeply reflecting what I truly wanted for myself, I decided, in a bold act of defiance against people's expectations, to pursue my own dream. Thus, I enrolled in Nucamp's Full Stack Bootcamp, and the rest is history (documented on my Github). 
 
-
-
-Email: frank.jk.lee96@gmail.com
-
-Portfolio: [https://www.frankleedev.com](https://www.frankleedev.com)
-
-LinkedIn: [https://www.linkedin.com/in/frank-lee-183212114/](https://www.linkedin.com/in/frank-lee-183212114/)
-
-Location: The Home of Carne Asada Fries, aka San Diego, CA -- open to relocation and remote work.
+- ✉️ Email: frank.jk.lee96@gmail.com
+- 💼 Portfolio: [https://www.frankleedev.com](https://www.frankleedev.com)
+- 🤝 LinkedIn: [https://www.linkedin.com/in/frank-lee-183212114/](https://www.linkedin.com/in/frank-lee-183212114/)
+- ☀️ Location: The Home of Carne Asada Fries, aka San Diego, CA -- open to relocation and remote work.
